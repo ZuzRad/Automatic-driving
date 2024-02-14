@@ -15,7 +15,7 @@
 ## 📝 General Information
 Automatic driving is a car game with a radio, where the main goal is to keep the vehicle on the road, changing lanes and avoiding collisions. The terrain is generated procedurally. The player has the opportunity to
 listen to a variety of radio stations with multiple songs, while artificial intelligence controls the bots on the road. Driving is automatic and the player can focus on selecting music and driving maneuvers. The player 
-also has the option to enter and exit the car
+also has the option to enter and exit the car.
 ## ✨ Game Features
 List of features that the game includes.
 - Driving on the road
