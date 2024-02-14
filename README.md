@@ -36,7 +36,7 @@ List of features that the game includes.
 
 
 ## 🎮 Controls
-Human
+Person
 | Actions               | Button   |
 |-----------------------|----------|
 | Move Forward          | W        |
