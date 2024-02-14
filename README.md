@@ -7,7 +7,7 @@
 
 ## 📖 Table of Contents
 * [General Information](https://github.com/ZuzRad/UnrealEngine-Automatic-driving#-general-information)
-* [Game Features](https://github.com/ZuzRad/UnrealEngine-Automatic-drivinge#-game-features)
+* [Game Features](https://github.com/ZuzRad/UnrealEngine-Automatic-driving#-game-features)
 * [Learning goals](https://github.com/ZuzRad/UnrealEngine-Automatic-driving#-learning-goals)
 * [Controls](https://github.com/ZuzRad/UnrealEngine-Automatic-driving#-controls)
 * [Project status](https://github.com/ZuzRad/UnrealEngine-Automatic-driving#-project-status)
